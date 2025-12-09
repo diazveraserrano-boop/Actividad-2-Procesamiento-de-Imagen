@@ -17,4 +17,5 @@ Evaluar de manera secuencial distintos hiperparámetros:<br>
 * Weight Initializer
 * Output Activation Function
 * Callbacks (EarlyStopping, Checkpoint) <br>
+
 Determinar qué configuraciones mejoran realmente la segmentación.<br>
