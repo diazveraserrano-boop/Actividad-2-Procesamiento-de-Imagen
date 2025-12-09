@@ -18,4 +18,3 @@ Evaluar de manera secuencial distintos hiperparámetros:<br>
 * Output Activation Function
 * Callbacks (EarlyStopping, Checkpoint) <br>
 Determinar qué configuraciones mejoran realmente la segmentación.<br>
-Este proyecto implementa y entrena una arquitectura U-Net para la segmentación de vasos sanguíneos en imágenes de fondo de ojo. El objetivo principal es analizar cómo cada hiperparámetro afecta al rendimiento cuando se optimiza de forma acumulativa, manteniendo los cambios que mejoran los resultados y descartando los que los empeoran.
